@@ -1,0 +1,1 @@
+Este repositorio tem como objetivo testar meus conhecimentos a cerca dos temas estudados por mim durante minha rotina. utilizo principalmente notebooks para guiar o aprendizado com exemplos e solidificar conceitos durante a jornada de aprendizado
